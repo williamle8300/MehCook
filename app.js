@@ -1,7 +1,3 @@
-//put back API stuff
-//remove connect-assets, (anything else not using)
-//what to do about cdn resources??
-
 /**
  * Module dependencies.
  */
